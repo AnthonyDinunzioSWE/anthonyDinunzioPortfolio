@@ -4,9 +4,9 @@ Anthony DiNunzio - Portfolio Website | 2024
 Live Demo
 ---------
 
-Explore the live demo of my portfolio [here](#) to see my work in action, showcasing projects across web development, software engineering, and game design.
+Explore the live demo of my portfolio [here](https://anthonydinunzioswe.github.io/anthonyDinunzioPortfolio) to see my work in action, showcasing projects across web development, software engineering, and game design.
 
-[Live Demo](#)
+[Live Demo]((https://anthonydinunzioswe.github.io/anthonyDinunzioPortfolio))
 
 Overview
 --------
